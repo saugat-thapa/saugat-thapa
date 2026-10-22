@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Saugat
 
-<!--
-**saugat-thapa/saugat-thapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Engineer from Kathmandu, Nepal. I build AI-powered automation
+systems that connect APIs, process documents with LLMs, and run real
+business workflows.
 
-Here are some ideas to get you started:
+## What I work with
+- **Automation:** n8n, Make, Webhooks, API orchestration
+- **Backend & AI:** Python, FastAPI, Node.js, LangChain, LLM integration
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+[LinkedIn](https://linkedin.com/in/thapa-saugat) · thapasaugat144@gmail.com
